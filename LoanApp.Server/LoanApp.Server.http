@@ -1,0 +1,6 @@
+@LoanApp.Server_HostAddress = http://localhost:5001
+
+GET {{LoanApp.Server_HostAddress}}/Loans/
+Accept: application/json
+
+###
